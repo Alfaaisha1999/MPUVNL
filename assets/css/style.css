@@ -167,7 +167,7 @@ h4,
 h5,
 h6 {
   font-family: "Inter", sans-serif;
-  color:  #fff;
+  color:  #444444;
   font-weight: 700; }
 
 .theme-dark h1,
@@ -189,7 +189,7 @@ h6 {
 
 a {
   text-decoration: none;
-  color:  #fff;
+  color:  #484848;
   transition: 0.3s; }
 
 ul {
@@ -519,7 +519,7 @@ ul {
     .header .navbar .navbar-nav {
       display: flex; }
       .header .navbar .navbar-nav li a {
-        color:  #fff;
+        color:  #333232;
         font-weight: 600; }
         .header .navbar .navbar-nav li a:hover, .header .navbar .navbar-nav li a.active {
           color: #fff;
@@ -685,7 +685,7 @@ ul {
         white-space: nowrap;
         font-size: 14px;
         font-weight: 600;
-        color:  #fff;
+        color:  #343434;
         -webkit-transition: color 0.2s linear;
         -o-transition: color 0.2s linear;
         transition: color 0.2s linear; }
